@@ -160,6 +160,6 @@ This project is intended for academic and learning purposes.
 
 ## 📬 Contact
 
-For questions, feedback, or collaboration, feel free to reach out via [LinkedIn](www.linkedin.com/in/arjit-mathur-48b895353).
+For questions, feedback, or collaboration, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/arjit-mathur-48b895353/).
 
 ---
